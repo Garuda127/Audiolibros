@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AudioLibros.iml" filepath="$PROJECT_DIR$/.idea/modules/AudioLibros.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AudioLibros.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AudioLibros.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FragmentosDinamicos.iml" filepath="$PROJECT_DIR$/.idea/modules/FragmentosDinamicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FragmentosDinamicos.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FragmentosDinamicos.app.iml" />
     </modules>
   </component>
 </project>
